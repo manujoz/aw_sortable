@@ -1,0 +1,20 @@
+{
+    "name": "aw_sortable",
+    "version": "1.0.0",
+	"description": "Componente que reordena listas",
+	"keywords": [
+		"Polymer",
+		"Web Components"
+	],
+	"author": "Manu Overa",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+    "dependencies": {
+		"aw_polymer_3": "^1.1.20",
+        "sortablejs": "^1.13.0"
+    },
+	"types": "./index.d.ts",
+	"license": "ISC"
+}
