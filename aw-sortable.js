@@ -218,7 +218,7 @@ class AwSortable extends PolymerElement {
                 options[opt] = this[opt];
             }
         });
-        console.log( options );
+        
         return options;
     }
 }
