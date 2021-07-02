@@ -9,7 +9,7 @@
 	"author": "Manu Overa",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/manujoz/aw_sortable.git"
 	},
     "dependencies": {
 		"aw_polymer_3": "^1.1.20",
